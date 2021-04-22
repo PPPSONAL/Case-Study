@@ -1,0 +1,14 @@
+{
+    "require": {
+        "symfony/console": "^5.2",
+        "symfony/dom-crawler": "^5.2",
+        "symfony/css-selector": "^5.2",
+        "google/apiclient": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Console\\": "src"
+        },
+        "classmap": ["src"]
+    }
+}
