@@ -7,5 +7,6 @@ Environment Setup
 Project Setup  
 
 Inside Project Directory (laravel) run below command
+
     composer install
     php bin/console ETL
